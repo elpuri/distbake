@@ -1,0 +1,7 @@
+*.pro.user
+*.o
+Makefile
+distbake
+.qmake.stash
+*.png
+*.svg
